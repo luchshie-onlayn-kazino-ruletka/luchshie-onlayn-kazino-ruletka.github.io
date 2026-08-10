@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-onlayn-kazino-ruletka.github.io
+Sitemap: https://luchshie-onlayn-kazino-ruletka.github.io/sitemap.xml
